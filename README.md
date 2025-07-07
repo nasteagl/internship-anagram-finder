@@ -1,5 +1,3 @@
-# internship-anagram-finder
-
 
 ### How to Build and Run the Program
 #### Step 1: Get the Project
