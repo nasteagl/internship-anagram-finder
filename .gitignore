@@ -11,6 +11,9 @@ target/
 *.iws
 *.iml
 *.ipr
+.idea/
+out/
+*.class
 
 ### Eclipse ###
 .apt_generated
@@ -35,4 +38,12 @@ build/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Sto
+# Maven
+/target/re
+
+
+# Other
+*.jar
+*.war
+*.ear
